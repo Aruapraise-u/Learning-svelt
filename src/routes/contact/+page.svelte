@@ -1,0 +1,1 @@
+<h1 class="text-purple-500 font-bold text-3xl">CONTACT US</h1>
